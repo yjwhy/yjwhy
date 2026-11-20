@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react,redux,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react" />
 </p>
 </br>
 
